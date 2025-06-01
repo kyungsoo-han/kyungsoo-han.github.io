@@ -18,12 +18,12 @@ title                    : "HanksLog"
 title_separator          : "-"
 subtitle                 : "Backend Developer"
 name                     : "Kyungsoo Han"
-description              : "Java, Spring Boot 기반 실무형 백엔드 개발자"
+description              : "Java, Spring Boot 기반 백엔드 개발자"
 url                      : "https://kyungsoo-han.github.io"
 baseurl                  : ""  # 루트 도메인 사용 시 공백 유지
 repository               : "kyungsoo-han/kyungsoo-han.github.io"
-teaser                   : "/assets/images/teaser.png"  # 필요 시 이미지 파일 추가
-logo                     : "/assets/images/logo.png"    # 필요 시 이미지 파일 추가
+teaser                   : # "/assets/images/teaser.png"  # 필요 시 이미지 파일 추가
+logo                     : # "/assets/images/logo.png"    # 필요 시 이미지 파일 추가
 masthead_title           : " "  # 제목 제거 시 공백 설정
 breadcrumbs              : false
 words_per_minute         : 200
@@ -69,7 +69,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/og_image.png"  # 필요 시 이미지 파일 추가
+og_image                 : # "/assets/images/og_image.png"  # 필요 시 이미지 파일 추가
 social:
   type                   : "Person"
   name                   : "Kyungsoo Han"
