@@ -250,6 +250,7 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
   category: 'posts'
+  published: true
   tag: ''
   locale: ''
   trail:
