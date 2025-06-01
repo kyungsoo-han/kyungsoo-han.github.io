@@ -88,23 +88,17 @@ analytics:
 # Site Author
 author:
   name             : "Kyungsoo Han"
-  avatar           : "/assets/images/profile.jpg"  # 프로필 이미지 준비 필요
-  bio              : "WMS / MES / Kafka / Redis 실무 기반 백엔드 개발자"
-  location         : "Republic of Korea"
+  avatar           : # "/assets/images/profile.jpg"  # 프로필 이미지 준비 필요
+  bio              : "백엔드 개발자"
+  location         : # "Republic of Korea"
   email            : "hanks6160@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hanks6160@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://kyungsoo-han.github.io"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KyungSoo-Han"
-    - label: "Notion"
-      icon: "fas fa-fw fa-book"
-      url: "https://notion.site/your-notion"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hanks6160@gmail.com"
 
 # Site Footer
 footer:
@@ -112,9 +106,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KyungSoo-Han"
-    - label: "Notion"
-      icon: "fas fa-fw fa-book"
-      url: "https://notion.site/your-notion"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:hanks6160@gmail.com"
@@ -182,6 +173,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
+timezone: Asia/Seoul
 
 # Pagination with jekyll-paginate
 paginate: 5
